@@ -1,0 +1,6 @@
+{
+  "name": "Link Click Personality Quiz",
+  "description": "اختبار شخصية تفاعلي مقتبس من أنمي Link Click (تشينغ شياوشي، لو غوانغ، قياو لينغ) مع تجربة استوديو تصوير الزمن.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
